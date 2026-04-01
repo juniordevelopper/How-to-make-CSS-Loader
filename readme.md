@@ -9,7 +9,7 @@
 ### 🌟 Overview
 Welcome to the **How to make CSS Loader** project! This project demonstrates how to create a classic equalized wave loader effect using minimal HTML structure, CSS scaling, and **JavaScript** for efficient element generation.
 
-[📺 Watch Live Demo](https://github.io)
+[📺 Watch Live Demo](https://juniordevelopper.github.io/How-to-make-CSS-Loader/)
 
 ---
 
